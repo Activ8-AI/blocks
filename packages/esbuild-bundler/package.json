@@ -9,7 +9,7 @@
     },
     "dependencies": {
         "@airtable/blocks-cli": "^2.0.10 || ^3.0.1",
-        "esbuild": "^0.25.9"
+        "esbuild": "^0.28.1"
     },
     "devDependencies": {
         "@oclif/config": "^1.17.0",
